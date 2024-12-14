@@ -1,0 +1,40 @@
+{
+    "usuarios": [
+      {
+        "id": "1",
+        "username": "usuario1",
+        "password": "duoc1234",
+        "email": "usuario1@mail.cl",
+        "isactive": true
+      },
+      {
+        "id": "2",
+        "username": "usuario2",
+        "password": "maipu1234",
+        "email": "usuario2@mail.cl",
+        "isactive": true
+      },
+      {
+        "id": "1a88",
+        "username": "Marcos",
+        "email": "marcoscea381@gmail.com",
+        "password": "pepito123",
+        "isactive": true
+      }
+    ],
+    "clases": [
+      {
+        "id": "1",
+        "title": "matematicas",
+        "body": "matematicas prueba"
+      },
+      {
+        "id": "0004",
+        "title": "matematicas",
+        "body": "algebra"
+      }
+    ],
+    "justificativos": [
+      
+    ]
+  }
