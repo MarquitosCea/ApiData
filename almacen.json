@@ -35,6 +35,11 @@
       }
     ],
     "justificativos": [
-      
+      {
+        "id":1,
+        "username":"Marcos",
+        "clases": "matematicas",
+        "body": "me enfermé"
+      }
     ]
   }
